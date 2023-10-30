@@ -1,1 +1,1 @@
-# CG_Assignment
+# Computer Graphics
